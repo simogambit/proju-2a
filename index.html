@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <title>ArtistiHub</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<!-- Sivun pääkontaineri, joka keskittää sisällön ja rajaa maksimileveyden -->
+<div class="container">
+  <!-- Logo --> 
+  <img id="logo" src="kuvat/saw.png" alt="ArtistiHub">
+  <!-- Hakusektio: artistin valintalista -->
+  <div id="search-section">
+    <label for="artistSelect">Valitse artisti:</label>
+    <!-- Lista, josta käyttäjä voi valita artistin -->
+    <select id="artistSelect">
+      <option value=""></option>
+      <option value="The Weeknd">The Weeknd</option>
+      <option value="Taylor Swift">Taylor Swift</option>
+      <option value="Drake">Drake</option>
+      <option value="Playboi Carti">Playboi Carti</option>
+      <option value="Travis Scott">Travis Scott</option>
+      <option value="Ed Sheeran">Ed Sheeran</option>
+      <option value="Kendrick Lamar">Kendrick Lamar</option>
+      <option value="Billie Eilish">Billie Eilish</option>
+    </select>
+  </div>
+  <!-- Artistin info div -->
+  <div id="artistInfo"></div>
+  <!-- Albumit div -->
+  <div id="albums"></div>
+  </div> 
+
+  <script src="script.js"></script>
+</body>
+</html>
