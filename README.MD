@@ -3,8 +3,8 @@ Music Information App (ArtistiHub).
 Tekijät: Nico Soini, Simo Rönni
 
 ## Verkkolinkit:
-Pääset julkaistuun sovellukseen käsiksi osoitteessa [ArtistiHub](https://albumihub.netlify.app/)
-Linkki projektin videoesittelyyn [Nico](), [Simo]()
+Pääset julkaistuun sovellukseen käsiksi osoitteessa [ArtistiHub](https://6915bb100439c90774c6cd98--marvelous-pithivier-250406.netlify.app/)
+Linkki projektin videoesittelyyn [Nico](), [Simo](https://www.youtube.com/watch?v=6TjFDMrttXg)
 
 ## Työn jakautuminen 
 Työskentelimme molemmat niin HTML:n, CSS:n ja scriptin parissa. Teimme työtä samaan aikaan Discordin välityksellä, hyödyntäen LiveShare lisäominaisuutta Visual Studio Codessa. Työhön käytimme yhteensä aikaa noin 8 tuntia. Emme jakaneet osioita erikseen vaan suoritimme samaan aikaan molemmat niin HTML:n, visuaalisen ja scriptipuolen. Tehtävässä käytimme Simon API-avainta.
@@ -54,3 +54,4 @@ Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi
 
 ## Lisenssi
 MIT-lisenssi @ [Nico Soini](https://github.com/nicosoini)
+MIT-lisenssi @ [Simo Rönni](https://github.com/simogambit)
